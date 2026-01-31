@@ -13,6 +13,12 @@ Computer Science Engineering student with a strong interest in Data Science and 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth829&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 [![](https://visitcount.itsvg.in/api?id=Parth829&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

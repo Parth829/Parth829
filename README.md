@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi there 👋
 Computer Science Engineering student with a strong interest in Data Science and Machine Learning. Passionate about transforming data into meaningful insights, building efficient algorithms, and continuously exploring cutting-edge technologies. Always learning, experimenting, and optimizing.
 
 

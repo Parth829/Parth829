@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there 👋
+<img width="854" height="200" alt="image" src="https://github.com/user-attachments/assets/63b78c5b-d9bb-4587-8155-f525574d0f8f" />
+# 👋 Hey there,I'm Parth! 
 Computer Science Engineering student with a strong interest in Data Science and Machine Learning. Passionate about transforming data into meaningful insights, building efficient algorithms, and continuously exploring cutting-edge technologies. Always learning, experimenting, and optimizing.
 
 

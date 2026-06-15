@@ -22,18 +22,3 @@ Computer Science Engineering student with a strong interest in Data Science and 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-<div class="github-dashboard dash-card">
-<div class="gh-header">
-<h3>GitHub Telemetry</h3>
-<span class="gh-username">@Parth829</span>
-</div>
-<div class="gh-stats-grid">
-<div class="gh-chart">
-<canvas id="languageChart"></canvas>
-</div>
-<div class="gh-heatmap">
-<!-- Simulated Heatmap Grid -->
-<div class="heatmap-grid" id="heatmap"></div>
-</div>
-</div>
-
